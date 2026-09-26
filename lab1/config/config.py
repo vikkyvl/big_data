@@ -1,0 +1,5 @@
+SPARK_MASTER = "local[*]"
+
+WORD_COUNT_APP_NAME = "WordCount"
+INVERTED_INDEX_APP_NAME = "InvertedIndex"
+LOGS_ANALYSIS_APP_NAME = "LogsAnalysis"
