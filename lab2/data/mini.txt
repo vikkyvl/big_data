@@ -1,0 +1,7 @@
+# Toy example: 4 pages, 5 links
+# FromNodeId	ToNodeId
+A	B
+A	C
+B	C
+C	A
+D	C
